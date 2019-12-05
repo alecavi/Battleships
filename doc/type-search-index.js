@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"player","l":"AbstractPlayer"},{"l":"All Classes","url":"allclasses-index.html"},{"p":"player","l":"Board"},{"p":"types","l":"Coordinate"},{"p":"player","l":"CPUPlayer"},{"p":"types","l":"Directions"},{"p":"main","l":"Game"},{"p":"main","l":"GameState"},{"p":"player","l":"HumanPlayer"},{"p":"types","l":"Ship"},{"p":"types","l":"ShotResults"}]
